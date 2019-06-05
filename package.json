@@ -2,7 +2,7 @@
   "name": "@brillout/fetch",
   "version": "0.1.2",
   "dependencies": {
-    "node-fetch": "^1.7.3",
+    "node-fetch": "^2.3.0",
     "reassert": "^1.1.16"
   },
   "repository": "github:brillout/fetch",
